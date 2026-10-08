@@ -32,6 +32,7 @@ Windows & Linux · VMware vCloud Director · automation
 | [rds-toolkit](https://github.com/Manick351/rds-toolkit) | RDS farms with UPD / FSLogix: profile disk inventory, compaction, cache cleanup, broken profile repair, diagnostics, helpdesk GUI |
 | [windows-server-ops](https://github.com/Manick351/windows-server-ops) | Windows Server fleet: parallel patching with reboot control, LAPS/AD checks, lockout tracing, mass logoff, disk and profile cleanup, free IP search, access and Tomcat audits |
 | [vmware-cloud-toolkit](https://github.com/Manick351/vmware-cloud-toolkit) | VMware Cloud Director / vCAV / vCenter: VM and capacity reports, DR readiness check, replication management, snapshots across vCenters, automated template updates |
+| [itsm-cmdb-automation](https://github.com/Manick351/itsm-cmdb-automation) | GLPI CMDB, Zabbix and service desk automation: server lifecycle from tickets, inventory and monitoring sync, DNS cleanup of retired servers, ticket router, workload analytics |
 | [anyconnect-totp-login](https://github.com/Manick351/anyconnect-totp-login) | Cisco AnyConnect CLI login with TOTP — credentials kept in SecretManagement / DPAPI, never in plain text |
 
 All scripts in my repositories are generalized from real-world tasks: company names, hosts, addresses and internal systems are replaced
