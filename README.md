@@ -25,5 +25,11 @@ Windows & Linux · VMware vCloud Director · automation
 | Linux | Ubuntu, systemd, auditd |
 | Monitoring & ITSM | Zabbix, GLPI |
 
+**Repositories**
+
+| Repository | What's inside |
+|---|---|
+| [windows-server-ops](https://github.com/Manick351/windows-server-ops) | Windows operations: network printer discovery over SNMP, remote printer management, driver backup |
+
 All scripts in my repositories are generalized from real-world tasks: company names, hosts, addresses and internal systems are replaced
 with placeholders (`contoso.local`, `srv-app-01`, `192.0.2.x`). Most of them default to a dry run (`-WhatIf` / `--dry-run`).
