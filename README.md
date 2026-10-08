@@ -30,6 +30,7 @@ Windows & Linux · VMware vCloud Director · automation
 | Repository | What's inside |
 |---|---|
 | [windows-server-ops](https://github.com/Manick351/windows-server-ops) | Windows operations: network printer discovery over SNMP, remote printer management, driver backup |
+| [anyconnect-totp-login](https://github.com/Manick351/anyconnect-totp-login) | Cisco AnyConnect CLI login with TOTP — credentials kept in SecretManagement / DPAPI, never in plain text |
 
 All scripts in my repositories are generalized from real-world tasks: company names, hosts, addresses and internal systems are replaced
 with placeholders (`contoso.local`, `srv-app-01`, `192.0.2.x`). Most of them default to a dry run (`-WhatIf` / `--dry-run`).
