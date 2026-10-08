@@ -3,7 +3,7 @@ Windows & Linux · VMware vCloud Director · automation
 
 > **🇷🇺 Кратко.** Инженер инфраструктуры: Windows Server и Linux, виртуализация на VMware vCloud Director / vCenter,
 > автоматизация рутины на PowerShell, Bash и Python. Здесь — обобщённые версии моих рабочих скриптов:
-> жизненный цикл ВМ, интеграция с ITSM/CMDB, мониторинг, патчинг, RDS. Все примеры обезличены.
+> жизненный цикл ВМ, интеграция с ITSM/CMDB, мониторинг, патчинг, RDS.
 
 ---
 
